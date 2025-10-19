@@ -1,12 +1,14 @@
-1Hz - Lowest frequencies to raise out of silence...
+#1Hz - Lowest frequencies to raise out of silence...
 
 
-Final Hash - cf96c428334218af5b89072153f2a5636aa056853edf96d29751ecc7536bd90c
-OTS Hash - fd870d5aa3c9cb08d974baa484818b94ca36d6c198365baa084084a810498c69
+#Final Hash - cf96c428334218af5b89072153f2a5636aa056853edf96d29751ecc7536bd90c
+#OTS Hash - fd870d5aa3c9cb08d974baa484818b94ca36d6c198365baa084084a810498c69
 
-Hash Contents - {
+#Hash Contents - 
+{
   "file_hash": "3bf905f84e28ede5818ee0ff6308af8d2fea1e531ddd007f4112c1a2202a7cec",
   "payout": "39FxtSEkiQHAev6fehQQPD7q2mcGTauMrK",
   "timestamp": "2025-10-19T15:25EST",
   "note": "OTSCALENDAR: block 919082 merkle root fb6fd86ebb02e9c52b9e423fbf80da7f479eee1b3b3e2004762404738e54aee1; block 919168 merkle root df3b92611d8d95d384517125313c1cfe9ab9074711daf2bd62a6d8a11861b629  "
+
 }
